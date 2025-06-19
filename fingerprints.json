@@ -1,0 +1,66 @@
+{
+  "github.io": {
+    "service": "GitHub Pages",
+    "fingerprint": "There isn't a GitHub Pages site here."
+  },
+  "herokudns.com": {
+    "service": "Heroku",
+    "fingerprint": "No such app"
+  },
+  "bitbucket.io": {
+    "service": "Bitbucket Pages",
+    "fingerprint": "Repository not found"
+  },
+  "cloudfront.net": {
+    "service": "CloudFront",
+    "fingerprint": "ERROR: The request could not be satisfied"
+  },
+  "netlify.app": {
+    "service": "Netlify",
+    "fingerprint": "Page Not Found"
+  },
+  "readthedocs.io": {
+    "service": "ReadTheDocs",
+    "fingerprint": "unknown domain"
+  },
+  "surge.sh": {
+    "service": "Surge",
+    "fingerprint": "project not found"
+  },
+  "sendgrid.net": {
+    "service": "SendGrid",
+    "fingerprint": "The link you followed may be broken"
+  },
+  "fastly.net": {
+    "service": "Fastly",
+    "fingerprint": "Fastly error: unknown domain"
+  },
+  "pantheonsite.io": {
+    "service": "Pantheon",
+    "fingerprint": "404 error unknown site"
+  },
+  "helpscoutdocs.com": {
+    "service": "HelpScout",
+    "fingerprint": "Docs not found"
+  },
+  "wordpress.com": {
+    "service": "WordPress",
+    "fingerprint": "Do you want to register"
+  },
+  "zendesk.com": {
+    "service": "Zendesk",
+    "fingerprint": "Help Center Closed"
+  },
+  "unbouncepages.com": {
+    "service": "Unbounce",
+    "fingerprint": "The requested URL was not found on this server"
+  },
+  "desk.com": {
+    "service": "Desk",
+    "fingerprint": "Please check the URL"
+  },
+  "instapage.com": {
+    "service": "Instapage",
+    "fingerprint": "The page you were looking for doesn't exist"
+  }
+}
