@@ -1,6 +1,6 @@
 # Subdover
 
-🚀 **Subdover** is a professional and fast **Subdomain Takeover Scanner** built for bug bounty hunters and penetration testers.
+🚀 **Subdover** is a professional and fast **Subdomain Takeover Scanner**.
 
 ### 🧠 Features
 
