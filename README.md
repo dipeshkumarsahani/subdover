@@ -1,25 +1,29 @@
 # Subdover
 
-🚀 **Subdover** is a professional and fast **Subdomain Takeover Scanner**.
-
-### 🧠 Features
-
-- ✅ Scans single or multiple subdomains
-- ✅ Identifies vulnerable CNAME takeovers
-- ✅ Prevents false positives with wildcard DNS detection
-- ✅ Color-coded output with rich fingerprinting
-- ✅ Results export to CSV, JSON, or TXT
-- ✅ No login/API keys required
+🚀 **Subdover** is a professional and fast **Subdomain Takeover Scanner** designed for bug bounty hunters and penetration testers.
 
 ---
 
-### 🔧 Installation
+## 🧠 Features
+
+- ✅ Scan single or multiple subdomains
+- ✅ Detect vulnerable CNAME-based takeovers
+- ✅ Prevent false positives with wildcard DNS detection
+- ✅ Color-coded terminal output
+- ✅ Export results to CSV, JSON, or TXT
+- ✅ No login or API key required
+
+---
+
+## 🔧 Installation
 
 ```bash
 git clone https://github.com/dipeshkumarsahani/subdover.git
 cd subdover
 pip install -r requirements.txt
 ```
+
+▶️ Usage
 ```
 # Scan a single subdomain
 python3 subdover.py -s test.example.com
@@ -30,9 +34,25 @@ python3 subdover.py -l subs.txt
 # Use HTTPS instead of HTTP
 python3 subdover.py -l subs.txt --https
 
-# Save results to a custom folder in JSON format
+# Save results in JSON format to a folder
 python3 subdover.py -l subs.txt -o output/ --format json
 
-# Increase threads (default is 10)
+# Increase thread count (default is 10)
 python3 subdover.py -l subs.txt --threads 25
 ```
+
+
+📦 Output
+Subdover saves results in timestamped files in your specified format:
+CSV – Easy to open in Excel or Google Sheets
+JSON – Great for automation or scripting
+TXT – Human-readable format
+
+🧑‍💻 Author
+Dipesh Kumar Sahani
+🔗 GitHub: @dipeshkumarsahani
+
+
+
+
+
