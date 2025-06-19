@@ -40,17 +40,25 @@ python3 subdover.py -l subs.txt -o output/ --format json
 # Increase thread count (default is 10)
 python3 subdover.py -l subs.txt --threads 25
 ```
-
-
-📦 Output
+---
+## 📦 Output
 Subdover saves results in timestamped files in your specified format:
-CSV – Easy to open in Excel or Google Sheets
-JSON – Great for automation or scripting
-TXT – Human-readable format
 
-🧑‍💻 Author
-Dipesh Kumar Sahani
-🔗 GitHub: @dipeshkumarsahani
+- **CSV** – Easy to open in Excel or Google Sheets  
+- **JSON** – Great for automation or scripting  
+- **TXT** – Human-readable format
+
+---
+
+## 🧑‍💻 Author
+
+**Dipesh Kumar Sahani**  
+🔗 GitHub: [@dipeshkumarsahani](https://github.com/dipeshkumarsahani)
+
+---
+
+
+
 
 
 
