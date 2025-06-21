@@ -57,7 +57,8 @@ Subdover saves results in timestamped files in your specified format:
 ## 🧑‍💻 Author
 
 **Dipesh Kumar Sahani**  
-🔗 GitHub: [@dipeshkumarsahani](https://github.com/dipeshkumarsahani)
+🔗 GitHub: [@dipeshkumarsahani](https://github.com/dipeshkumarsahani)<br>
+👤 **LinkedIn:** [Dipesh Kumar Sahani](https://www.linkedin.com/in/dipeshkumarsahani) 
 
 ---
 
