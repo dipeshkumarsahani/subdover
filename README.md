@@ -49,6 +49,10 @@ Subdover saves results in timestamped files in your specified format:
 - **TXT** – Human-readable format
 
 ---
+---
+![image](https://github.com/user-attachments/assets/6788f624-7b10-41dd-9e78-2e9575e25527)
+
+---
 
 ## 🧑‍💻 Author
 
